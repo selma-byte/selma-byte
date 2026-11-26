@@ -1,6 +1,6 @@
 ### hello, world! 
 
-I'm Selma, a computer systems graduate currently pursuing an MSc in cybersecurity.
+I'm Selma, a computer systems graduate currently pursuing an MSc in computer security.
 
 I'm interested in cybersecurity, networking, and understanding how things work behind the scenes. I enjoy learning, experimenting with small projects, and exploring different areas of technology.
 
